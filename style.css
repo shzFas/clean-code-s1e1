@@ -55,7 +55,7 @@ body {
   }
   
   input,
-  button{
+  button {
     outline: none;
   }
   
@@ -137,7 +137,7 @@ body {
     width: 226px;
   }
   
-  li >    input[type="text"] {
+  li > input[type="text"] {
     width: 226px;
   }
   
